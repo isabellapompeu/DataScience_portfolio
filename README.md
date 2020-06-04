@@ -25,6 +25,6 @@ From the very beginning.
 
 
 ## Projetos:
-In progress...
+* [Analisando os Dados do Airbnb](https://bit.ly/36XaBE0)
 
 ---
