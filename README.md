@@ -25,6 +25,6 @@ From the very beginning.
 
 
 ## Projetos:
-* [Analisando os Dados do Airbnb](https://bit.ly/36XaBE0)
+* [Analisando Dados do Airbnb (Hong Kong)](https://bit.ly/3dU5JSY)
 
 ---
