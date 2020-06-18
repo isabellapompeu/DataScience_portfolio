@@ -27,4 +27,6 @@ From the very beginning.
 ## Projetos:
 * [Analisando Dados do Airbnb (Hong Kong)](https://bit.ly/3dU5JSY)
 
+* [Analisando a Violência no Rio de Janeiro](https://bit.ly/37EVak8)
+
 ---
