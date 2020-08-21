@@ -29,4 +29,6 @@ From the very beginning.
 
 * [Analisando a Violência no Rio de Janeiro](https://bit.ly/37EVak8)
 
+* [Análise do COVID-19 no Mundo](https://github.com/isabellapompeu/datascience_portfolio/blob/master/An%C3%A1lise_COVID_19_no_Mundo.ipynb)
+
 ---
