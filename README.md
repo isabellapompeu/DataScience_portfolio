@@ -31,4 +31,6 @@ From the very beginning.
 
 * [Análise do COVID-19 no Mundo](https://github.com/isabellapompeu/datascience_portfolio/blob/master/An%C3%A1lise_COVID_19_no_Mundo.ipynb)
 
+* [Detecção de Fraudes em Cartões de Crédito](https://github.com/isabellapompeu/datascience_portfolio/blob/master/Detec%C3%A7%C3%A3o_de_Fraudes_em_Cart%C3%A3o_de_Cr%C3%A9dito.ipynb)
+
 ---
